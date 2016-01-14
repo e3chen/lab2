@@ -33,10 +33,16 @@ body {
      z-index: -1;	
 }
 
-.project p {
-     font-variant: small-caps;
+.jumbotron h1 {
+     color: #7335B5;
 }
 
-#project1 {
+.jumbotron p {
+     color: #3F04BF;
+}
+
+.project p {
      font-variant: small-caps;
+     font-size: 18px;
+     color: #02CCC9;
 }
